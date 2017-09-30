@@ -1,4 +1,4 @@
-Plexus (discontinued)
+Plexus
 ================
 ![](http://s23.postimg.org/fp6iz6y6z/plexusbanner.jpg)
 

@@ -9,12 +9,12 @@
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
-        <provides>executable</provides>
+    <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.repository" name="Plexus Repository">
-        <info compressed="false">https://plexus.svn.codeplex.com/svn/trunk/Addon/addons.xml</info>
-        <checksum>https://plexus.svn.codeplex.com/svn/trunk/Addon/addons.xml.md5</checksum>
-        <datadir zip="true">https://plexus.svn.codeplex.com/svn/trunk/Addon/</datadir>
+    <info compressed="false">https://plexus.svn.codeplex.com/svn/trunk/Addon/addons.xml</info>
+    <checksum>https://plexus.svn.codeplex.com/svn/trunk/Addon/addons.xml.md5</checksum>
+    <datadir zip="true">https://plexus.svn.codeplex.com/svn/trunk/Addon/</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>SopCast and AceStream for Kodi</summary>
